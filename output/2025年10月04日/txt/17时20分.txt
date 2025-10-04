@@ -1,0 +1,58 @@
+wallstreetcn-hot | 华尔街见闻
+1. “非农”缺席，标普六连涨，纳指盘中转跌，比特币逼近历史高点，金银铜走强 [URL:https://wallstreetcn.com/articles/3756645]
+2. 看好中国科技股AI叙事，“木头姐”本周持续加仓阿里、百度！ [URL:https://wallstreetcn.com/articles/3756647]
+3. 海外对冲基金：AI投机狂潮接近尾声，重仓铀铜等商品对冲泡沫风险 [URL:https://wallstreetcn.com/articles/3756648]
+4. 中东重大转折点来了？哈马斯同意释放全部人质，特朗普要求以色列停止轰炸 [URL:https://wallstreetcn.com/articles/3756665]
+5. 非农数据暂未公布，芝加哥联储主席：9月失业率料4.3%，劳动力市场稳定 [URL:https://wallstreetcn.com/articles/3756650]
+6. 贝佐斯：AI是“好泡沫”，即便股价像2000年亚马逊那样暴跌，对社会也是好事 [URL:https://wallstreetcn.com/articles/3756664]
+7. 当年“做空安然”开启2001年美股大崩盘，“末日博士”：现在的“私募信贷”和2008年的次贷类似 [URL:https://wallstreetcn.com/articles/3756668]
+8. 华尔街见闻早餐FM-Radio | 2025年10月4日 [URL:https://wallstreetcn.com/articles/3756662]
+9. 特朗普信赖的美联储理事米兰：房租上涨或导致其改变通胀预期 [URL:https://wallstreetcn.com/articles/3756652]
+10. 美国9月ISM服务业PMI 50，显著不及预期，商业活动创2020年以来最差 [URL:https://wallstreetcn.com/articles/3756651]
+
+cls-hot | 财联社热门
+1. 10月降息概率升至100%！华尔街：政府关门或令美联储偏向宽松 [URL:https://www.cls.cn/detail/2161755]
+2. 站稳AI存储C位？HBM紧缺恐成定局 但这一技术正“虎视眈眈” [URL:https://www.cls.cn/detail/2159339]
+3. 伊朗总统：别无选择，必须迁都 [URL:https://www.cls.cn/detail/2162147]
+4. 华为、阿里押注“超节点”：不卷单卡性能 追求“系统效率”才是国产AI正解？ [URL:https://www.cls.cn/detail/2160749]
+5. OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单 [URL:https://www.cls.cn/detail/2162309]
+6. 港股收盘 | 恒生科技指数涨超3%创近4年新高 半导体和黄金股领涨 [URL:https://www.cls.cn/detail/2161823]
+7. 医美赛道格局再生变！2999元的“平价童颜针”来了 价格战前夜已至？ [URL:https://www.cls.cn/detail/2162087]
+8. 旅游消费“燃”起来了！国庆中秋假期首日客流或创历史新高 [URL:https://www.cls.cn/detail/2161730]
+9. “小米汽车突然自己开走”？小米通报调查结果 [URL:https://www.cls.cn/detail/2162272]
+10. 墨西哥近日连续对我发起多起反倾销调查 商务部回应 [URL:https://www.cls.cn/detail/2162173]
+11. 存储巨头狂欢持续！与OpenAI达成合作后 三星、SK海力士股价飙升 [URL:https://www.cls.cn/detail/2161703]
+12. 我驻韩大使馆发布紧急提醒 [URL:https://www.cls.cn/detail/2161884]
+13. 累计金额超740亿！逾500家A股上市公司股东今年以来实施增持，增持金额排行榜出炉 [URL:https://www.cls.cn/detail/2161436]
+
+zhihu | 知乎
+1. 复旦大学附属华山医院将左输尿管手术做成右侧，为何会发生这种低级错误？ [URL:https://www.zhihu.com/question/1956050523754038036]
+2. 女子把车停路边被狗啃得面目全非，若找到「肇事狗」能向狗主人索赔吗？这情况汽车保险会赔付吗？ [URL:https://www.zhihu.com/question/1957353751020009458]
+3. 肯德基保密 54 年的炸鸡配方将于 10 月 8 日公开，公开后会对炸鸡销量带来影响吗？ [URL:https://www.zhihu.com/question/1957490230828426457]
+4. 我孩子近视 1200 度，打算让他学习乒乓球，训练眼球，有用吗？ [URL:https://www.zhihu.com/question/664154054]
+5. 霉霉新专辑 The life of a showgirl，已经可以听了，各位对这张专辑的评价如何呢？ [URL:https://www.zhihu.com/question/1957417044992569554]
+6. 蜜雪冰城茶饮业务如日中天，为何要斥资近 3 亿元增资啤酒品牌？有何战略布局？ [URL:https://www.zhihu.com/question/1957198732610212978]
+7. 如何看待天才漫画家藤本树电锯人新卷销量仅剩初期的一成左右？ [URL:https://www.zhihu.com/question/1957563218764473206]
+8. 知名车评人陈震驾驶劳斯莱斯闪灵发生车祸，交警通报「陈某负事故全责」，具体情况如何？ [URL:https://www.zhihu.com/question/1957519191440586366]
+9. 伊朗总统称伊朗别无选择必须迁都，首都德黑兰存在哪些问题？可能迁到哪里？迁都后问题能解决吗？ [URL:https://www.zhihu.com/question/1957471314110538983]
+10. 遇到受伤的鸟类，我应该把它带回家救助吗？ [URL:https://www.zhihu.com/question/1951971852202251698]
+11. 高市早苗当选自民党总裁，预计将成为日本第一位女首相，对日本政坛意味着什么？她有哪些政治主张？ [URL:https://www.zhihu.com/question/1957806831721214788]
+12. 哈马斯同意释放人质，移交加沙地带管理权，以方称将启动加沙 20 点计划，是突破还是博弈？背后有何考量？ [URL:https://www.zhihu.com/question/1957575734064279773]
+13. 如何看待「鸡排哥」带领全家统一服装「裂变式出摊」？他有哪些经营策略值得借鉴？ [URL:https://www.zhihu.com/question/1957484832201336456]
+14. 你用过最好用的一个读书软件是什么？ [URL:https://www.zhihu.com/question/637243538]
+15. 酒店一天办 11 场婚宴，国庆假期期间你参加婚礼了吗？随了多少份子？你是怎么看待这份「甜蜜的负担」的？ [URL:https://www.zhihu.com/question/1955684014514999450]
+16. 游本昌演完《繁花》5 年没走出来，一直活在爷叔的悲壮氛围中，为什么会无法出戏？有什么办法吗？ [URL:https://www.zhihu.com/question/1957376398906844234]
+17. 享受假期的同时，如何从心理层面调适，用科学的方法实现「最大化延长假期」？ [URL:https://www.zhihu.com/question/1956005961148887939]
+18. 特朗普称俄罗斯「像纸老虎」，普京回应「那北约又算什么？」，哪些信息值得关注？ [URL:https://www.zhihu.com/question/1957390269285627011]
+19. 为什么 12306 不买 HTTPS 证书？ [URL:https://www.zhihu.com/question/24931822]
+20. 战场上真的是「胆子越小，死得越早」吗？ [URL:https://www.zhihu.com/question/2371660054]
+
+==== 以下ID请求失败 ====
+
+
+
+
+
+
+
+
